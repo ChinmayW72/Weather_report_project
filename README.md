@@ -18,3 +18,7 @@ This project serves as a beginner-friendly example for integrating APIs into web
 ---
 
 Feel free to adjust it according to your preferences or any additional features you might want to highlight!
+
+
+![image](https://github.com/ChinmayW72/Weather_report_project/assets/159627244/f55bb390-c902-4d7e-a258-5fb87c61e742)
+
